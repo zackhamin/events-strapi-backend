@@ -1,5 +1,5 @@
 "use strict";
-// hello
+
 module.exports = {
   /**
    * An asynchronous register function that runs before
